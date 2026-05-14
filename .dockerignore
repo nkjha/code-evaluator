@@ -1,0 +1,15 @@
+node_modules
+npm-debug.log
+.env
+.git
+.gitignore
+README.md
+ARCHITECTURE.md
+storage/app/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+storage/logs/*
+tests
+.phpunit.result.cache
+code-evaluator-submission.zip
